@@ -20,5 +20,5 @@ limitations under the License.
 
 
 Please see the wiki for documentation:
- * https://github.com/oisinmulvihill/europython-www/wiki
 
+ * <a href="https://github.com/oisinmulvihill/europython-www/wiki">https://github.com/oisinmulvihill/europython-www/wiki</a>
