@@ -19,9 +19,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-Introduction
-------------
+Please see the wiki for documentation:
+ * https://github.com/oisinmulvihill/europython-www/wiki
 
-
-
- * symlink js/europythonlib to a checkout of europythonlib/js
